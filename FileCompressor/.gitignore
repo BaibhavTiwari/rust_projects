@@ -1,0 +1,41 @@
+# Compiled build outputs
+/target/
+
+# Dependency directories
+**/target/
+
+# Cargo.lock is usually committed for applications, but not for libraries
+Cargo.lock
+
+# Local environment files
+.env
+*.env
+
+# Rust language files
+*.rs.bk
+
+# IDEs and editors
+/.idea/
+/.vscode/
+/*.suo
+/*.user
+/*.userossc
+/*.sln
+/.DS_Store
+*.swp
+*~
+*.sw?
+
+# Log files
+*.log
+
+# Build output
+*.dSYM/
+
+# OS-specific files
+*.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Nix
+.result/
