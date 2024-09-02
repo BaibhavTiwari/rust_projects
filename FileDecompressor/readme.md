@@ -1,4 +1,4 @@
-# FileCompressor
+# FileDecompressor
 
 This is a simple Rust program that extracts files from a ZIP archive. The program reads the archive, iterates over the files inside, and extracts each file to the specified output path.
 
@@ -40,7 +40,7 @@ The program will print out the following information for each file in the archiv
 1. **Clone the repository**:
     ```sh
     git clone https://github.com/BaibhavTiwari/rust_projects
-    cd FileDecompress
+    cd FileDecompressor
     ```
 
 2. **Build the project**:
